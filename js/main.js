@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Douglas Hiranaka", "a Innovator", "a Leader", "an Engineer", "Deceptively elegant"],
+      strings: ["Douglas Hiranaka", "a Leader", "an Innovator", "an Engineer"],
       typeSpeed: 100,
       loop: true,
     });
